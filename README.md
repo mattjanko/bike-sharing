@@ -12,4 +12,3 @@ this task,
 Repository contents:
 1. bike-sharing.ipynb - a Jupyter notebook with code and markup for the project
 2. hour.csv - the data file for the project
-3. final-video.mp4 - a video description of the project
